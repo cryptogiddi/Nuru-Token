@@ -9,6 +9,7 @@ pragma solidity ^0.4.15;
 /*
 This Nuru Token contract is based on the ERC20 token contract standard. Additional
 functionality has been integrated:
+author@Gathuto G
 
 */
 
